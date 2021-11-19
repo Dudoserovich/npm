@@ -1,5 +1,5 @@
 # npm lab
-# Про проект и скрин запуска
+## Про проект
 В данной лабораторной использовались такие пакеты, 
 как **chalk**, **express**, **express-handlebars**, 
 **mongoose**. Причём версии express и express-handlebars
